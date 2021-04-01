@@ -11,12 +11,6 @@ header:
     - label: Features
       url: /features
       style: link
-    - label: About
-      url: /about
-      style: link
-    - label: Style Guide
-      url: /style-guide
-      style: link
     - label: Contact Us
       url: /contact
       style: primary
@@ -31,16 +25,8 @@ footer:
       style: link
   has_social: true
   social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      style: link
-      new_window: true
     - label: GitHub
       url: 'https://github.com/byldworks'
-      style: link
-      new_window: true
-    - label: LinkedIn
-      url: 'https://www.linkedin.com/'
       style: link
       new_window: true
   content: >-
