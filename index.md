@@ -2,10 +2,9 @@
 title: Home
 sections:
   - type: hero_section
-    title: This Is A Big Hero Headline
+    title: Continuous integration & deployment for Tableau.
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Automate the deployment of Tableau workbooks between environments. 
     actions:
       - label: Learn More
         url: /features
@@ -66,33 +65,29 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
   - type: cta_section
-    title: This Is A CTA
+    title: Get in touch
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Tab CI can be fully tailored to the specific needs of your business.  
+      Get in touch to find out more.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Contact Us
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: Tab CI
+  description: Automated CI/CD for Tableau Workbooks
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: Tab CI
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: TAutomated CI/CD for Tableau Workbooks
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
@@ -101,9 +96,9 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Starter Theme
+      value: Tab CI
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: Automated CI/CD for Tableau Workbooks
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true
